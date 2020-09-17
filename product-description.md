@@ -5,7 +5,7 @@ The source code outlining how this product gathers, transforms, revises and publ
 
 ## Main Overview
 
-This release contains information on 2020 Election Forecast for the United States' next presidental term. The included files contain information on economic indicators, final national toplines, final state-level toplines, forecasted chances of every possible Electoral College outcome, and contains the forecasted chances of various possible election outcome scenarios. 
+This release contains information on 2020 Election Forecast for the United States' next presidential term. The included files contain information on economic indicators, final national toplines, final state-level toplines, forecasted chances of every possible Electoral College outcome, and contains the forecasted chances of various possible election outcome scenarios. 
 
 The included data is provided by FiveThirtyEight, which contains data on various relevant topics such as politics, sports, science, polls and more. If you are interested in learning more or want to explore other datasets created and maintained by FiveThirtyEight, visit the [FiveThirtyEight homepage](https://fivethirtyeight.com/).  
 
