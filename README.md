@@ -5,7 +5,7 @@
 2020 Election Forecast | FiveThirtyEight
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-ya4mdcheptmxa](https://aws.amazon.com/marketplace/pp/prodview-ya4mdcheptmxa).
 
 ## Main Overview
 
